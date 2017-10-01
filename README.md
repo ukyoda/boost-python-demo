@@ -61,4 +61,8 @@ OpenCV+Pythonの環境を作りたくない、システムワイドにOpenCVと�
 という人はこのDockerfileを使ってください。
 なお、GUIは使えないので注意してください。
 
+## その他
+
+* FindNumPy.cmakeはCaffeのソースコードを流用しています
+
 以上

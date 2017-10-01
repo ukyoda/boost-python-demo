@@ -5,3 +5,4 @@ project(pymodules)
 
 add_subdirectory(klass)
 add_subdirectory(simple)
+add_subdirectory(img)
